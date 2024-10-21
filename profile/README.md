@@ -1,8 +1,8 @@
-## Hi there 👋
+
+This is a placeholder for the Light Horse Therapeutics landing page, to be updated later. 
 
 <!--
 
-This is a placeholder for the Light Horse Therapeutics landing page, to be updated later. 
 
 **Here are some ideas to get you started:**
 
